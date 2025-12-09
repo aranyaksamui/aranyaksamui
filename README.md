@@ -35,14 +35,6 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555" alt="stats graph" />
-</p>
-
----
-
 ### 📫 Connect
 
 - [LinkedIn](https://linkedin.com/in/aranyaksamui)
