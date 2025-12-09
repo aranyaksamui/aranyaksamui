@@ -6,7 +6,7 @@ I am a Full-Stack Developer with **2 years of experience** building scalable web
 
 Beyond web development, I bring a unique creative edge to **Game and XR development** (Unity/C#), offering a versatile, multifaceted perspective on complex engineering challenges.
 
-
+---
 
 ### 💼 Technical Proficiency
 
@@ -24,7 +24,6 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 
 #### Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 
 ---
 
