@@ -10,20 +10,17 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 
 ### 💼 Technical Proficiency
 
-#### Web Development & Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+#### Backend, Data, and Automation:
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,mongodb,python,anaconda,firebase,supabase&theme=light" />
 
-#### Game, XR & 3D
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+#### Frontend and User Interface
+<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,javascript,react,vite&theme=dark" />
 
-#### Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+#### Windows Native, Game, XR & 3D:
+<img src="https://skillicons.dev/icons?i=unity,blender,illustrator,cs,cpp&theme=light" />
+
+#### Developer Tools:
+<img src="https://skillicons.dev/icons?i=git,bash,postman&theme=dark" />
 
 ---
 
