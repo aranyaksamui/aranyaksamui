@@ -30,9 +30,9 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 
 ### 🚀 What I Do
 
-*   **Front-End Architecture:** Developing responsive, high-performance UIs using React.
-*   **Server-Side Logic:** Building scalable APIs and microservices with Node.js.
+*   **Server-Side Architecture:** Building scalable APIs and microservices with Node.js.
 *   **Database Management:** Proficiency in modeling data for both SQL and NoSQL environments.
+*   **Front-End Architecture:** Developing responsive, high-performance UIs using React.
 *   **Automation:** Utilizing Python scripts to streamline workflows and backend tasks.
 *   **Interactive Media:** Creating 3D environments and logic using Unity Engine and C#.
 
@@ -40,5 +40,5 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 
 ### 📫 Connect
 
-- [LinkedIn](https://linkedin.com/in/aranyaksamui)
-- [Email](mailto:aranyaksamuiarya@gmail.com)
+[LinkedIn](https://linkedin.com/in/aranyaksamui)
+[Email](mailto:aranyaksamuiarya@gmail.com)
