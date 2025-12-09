@@ -1,4 +1,4 @@
-# Hi, I'm Aranyak Samui!
+# This is Aranyak Samui 👋🏽!
 
 **MERN Stack Developer | Unity & C# Game and XR Development | Python | Web Applications & 3D Modeling with Blender**
 
