@@ -1,8 +1,4 @@
 <!-- Header with Typing Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Game+%26+XR+Enthusiast;JavaScript+Ecosystem+Expert;Creative+Coder" alt="Typing SVG" />
-</div>
-
 <h1 align="center">Hi there, I'm Aranyak Samui! 👋</h1>
 
 <div align="center">
@@ -52,13 +48,6 @@ But I'm not just about the web! I have a **Creative Edge** with a background in 
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
 
 ---
 
