@@ -39,10 +39,9 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 ---
 
 ### 📫 Connect
-
-<a href="https://linkedin.com/in/aranyaksamui" style="{ text-decoration: none; }">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 <a href="mailto:aranyaksamuiarya@gmail.com style="{ text-decoration: none; }">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/aranyaksamui" style="{ text-decoration: none; }">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
