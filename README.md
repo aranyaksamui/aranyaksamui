@@ -1,4 +1,4 @@
-# Hi, I'm Aranyak Samui
+# Hi, I'm Aranyak Samui!
 
 **Full-Stack Developer | JavaScript Specialist | Game & XR Developer**
 
