@@ -1,6 +1,6 @@
 # This is Aranyak Samui 👋🏽
 
-***MERN Stack Developer | Unity & C# Game and XR Development | Python | Web Applications & 3D Modeling with Blender***
+***Engineering Software & Web Architectures (MERN) | Native, XR & 3D Simulation (Unity/C#/Blender) | Automation (Python)***
 
 I am a Full-Stack Developer with **2 years of experience** building scalable web applications and dynamic user interfaces. My core expertise lies in the **JavaScript ecosystem**, complemented by a strong background in **Python** for automation and backend utilities.
 
