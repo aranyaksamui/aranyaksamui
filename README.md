@@ -32,14 +32,14 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
         <br>
         <b>Windows Native, Game, XR & 3D</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=unity,blender,ai,cs,cpp&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=unity,blender,ai,cs,cpp&theme=dark&perline=5" />
         <br><br>
       </td>
       <td align="center" width="50%">
         <br>
         <b>Developer Tools</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=git,bash,postman&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,bash,postman&theme=dark&perline=5" />
         <br><br>
       </td>
     </tr>
