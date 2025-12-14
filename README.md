@@ -61,5 +61,5 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
 <h3 align="center">📫 Connect With Me</h3>
 
 <p align="center">
-  <a href="mailto:aranyaksamuiarya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://aranyak-portfolio-client.vercel.app/"><img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=web&logoColor=white" alt="Website" /></a><a href="https://linkedin.com/in/aranyaksamui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aranyaksamui29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><a href="https://aranyak-portfolio-client.vercel.app/"><img src="https://img.shields.io/badge/Website-2ea44f?style=for-the-badge&logo=web&logoColor=white" alt="Website" /></a><a href="https://linkedin.com/in/aranyaksamui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
