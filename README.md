@@ -12,14 +12,14 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
   <h3 align="center">🏅 My Technical Proficiency</h3>
   <table border="0">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" valign="top" width="50%">
         <br>
         <b>Backend, Data & Automation</b>
         <br><br>
         <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,mongodb,python,anaconda,firebase,supabase&theme=dark&perline=5" />
         <br><br>
       </td>
-      <td align="center" width="50%">
+      <td align="center" valign="top" width="50%">
         <br>
         <b>Frontend & User Interface</b>
         <br><br>
@@ -28,14 +28,14 @@ Beyond web development, I bring a unique creative edge to **Game and XR developm
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" valign="top" width="50%">
         <br>
         <b>Windows Native, Game, XR & 3D</b>
         <br><br>
-        <img src="https://skillicons.dev/icons?i=unity,blender,ai,cs,cpp&theme=dark&perline=5" />
+        <img src="https://skillicons.dev/icons?i=unity,blender,ai,ps,cs,cpp&theme=dark&perline=5" />
         <br><br>
       </td>
-      <td align="center" width="50%">
+      <td align="center" valign="top" width="50%">
         <br>
         <b>Developer Tools</b>
         <br><br>
