@@ -2,9 +2,9 @@
 
 ***Engineering Software & Web Architectures (MERN) | Native, XR & 3D Simulation (Unity/C#/Blender) | Automation (Python)***
 
-I am a Full-Stack Developer with **2 years of experience** building scalable web applications and dynamic user interfaces. My core expertise lies in the **JavaScript ecosystem**, complemented by a strong background in **Python** for automation and backend utilities.
+I am a Full-Stack Developer with **2 years of experience** building scalable applications and dynamic user interfaces. My core expertise lies in the **JavaScript ecosystem**, complemented by a strong background in **Python** for automation and backend utilities.
 
-Beyond web development, I bring a unique creative edge to **Game and XR development** (Unity/C#), offering a versatile, multifaceted perspective on complex engineering challenges.
+Beyond full-stack development, I bring a unique creative edge to **Game and XR development** (Unity/C#), offering a versatile, multifaceted perspective on complex engineering challenges.
 
 <h2></h2>
 
